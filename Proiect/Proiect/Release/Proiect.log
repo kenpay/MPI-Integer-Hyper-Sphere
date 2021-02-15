@@ -1,0 +1,7 @@
+﻿Source.obj : error LNK2001: unresolved external symbol _MPI_Comm_rank@8
+Source.obj : error LNK2001: unresolved external symbol _MPI_Comm_size@8
+Source.obj : error LNK2001: unresolved external symbol _MPI_Finalize@0
+Source.obj : error LNK2001: unresolved external symbol _MPI_Abort@8
+Source.obj : error LNK2001: unresolved external symbol _MPI_Get_processor_name@8
+Source.obj : error LNK2001: unresolved external symbol _MPI_Init@8
+C:\Universitate\Master\PPC\Proiect\Release\Proiect.exe : fatal error LNK1120: 6 unresolved externals
